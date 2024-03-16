@@ -1,0 +1,18 @@
+TOKEN: "YOUR_BOT_TOKEN"
+MONGODB:
+  URI: "YOUR_MONGO_URI"
+CHANNELS:
+  FACTION_TOP:
+    KITMAP:
+      CHANNEL: 0 # KitMap faction top channel id
+      MESSAGE: 0 # KitMap faction top message id
+    HCF:
+      CHANNEL: 0 # HCF faction top channel id
+      MESSAGE: 0 # HCF faction top message id
+  LEADERBOARDS_KILL:
+    KITMAP:
+      CHANNEL: 0 # KitMap leaderboards kill channel id
+      MESSAGE: 0 # KitMap leaderboards kill message id
+    HCF:
+      CHANNEL: 0 # HCF leaderboards kill channel id
+      MESSAGE: 0 # HCF leaderboards kill message id
